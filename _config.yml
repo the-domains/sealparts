@@ -1,0 +1,14 @@
+layout_spectrum: 0.2010423
+typography_spectrum: 0.687968
+color:
+  saturation: 0.1177664
+  lightness: 0.9976429
+  brandStrength: 0.9585887
+  rhythmicContrast: 0.2589466
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: sealparts
